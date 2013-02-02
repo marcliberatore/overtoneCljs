@@ -3,3 +3,29 @@ pom.xml
 /lib/
 /classes/
 .lein-deps-sum
+### /Users/liberato/.gitignore-boilerplates/Global/OSX.gitignore
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+### /Users/liberato/.gitignore-boilerplates/Leiningen.gitignore
+
+pom.xml
+*jar
+/lib/
+/classes/
+/targets/
+.lein-deps-sum
+
+
