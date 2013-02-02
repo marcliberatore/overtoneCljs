@@ -1,5 +1,5 @@
-(defproject overtoneinterface "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
+(defproject overtoneCljs "0.1.0"
+  :description "a simple example project using noir, overtone, and ibdknox's libraries"
   :plugins [[lein-cljsbuild "0.3.0" :exclusions [org.clojure/clojure]]]
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [overtone "0.8.1"]
