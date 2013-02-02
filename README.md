@@ -39,6 +39,7 @@ If you make changes to the ClojureScript file, located in `src-cljs/overtoneinte
 ## TODO
 
 - Move away from deprecated or relatively unmaintained libraries (Noir, fetch)
+- Fix any additional dependency clashes
 - Whatever your wub wub heart desires
 
 ## License
