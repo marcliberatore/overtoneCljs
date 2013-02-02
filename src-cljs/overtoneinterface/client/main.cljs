@@ -2,7 +2,7 @@
   (:require [crate.core :as crate]
             [fetch.remotes :as remotes])
   (:use [jayq.core :only [$ append delegate data]])
-  (:use-macros [crate.macros :only [defpartial]]))
+  (:use-macros [crate.def-macros :only [defpartial]]))
 
 (def $body ($ :body))
 (def $piano ($ :#piano))
@@ -44,5 +44,5 @@
                     param (if (= param "")
                             []
                             [param])]
-                (remotes/remote-callback action param)))))
+                (remotes/remote-callback action param nil)))))
 
