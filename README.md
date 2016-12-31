@@ -13,7 +13,7 @@ See:
 [Chris Granger]:http://www.chris-granger.com/
 [Overtone]:http://overtone.github.com/
 [Overtone and ClojureScript]:http://www.chris-granger.com/2012/02/20/overtone-and-clojurescript
-[Overtone and ClojureScript, Updated]:http://people.cs.umass.edu/~liberato/home/blog/2013/02/01/overtone-and-clojurescript-updated/
+[Overtone and ClojureScript, Updated]:http://people.cs.umass.edu/~liberato/home/post/2013-02-01-overtone-and-clojurescript-updated/
 
 ## Prerequisites
 
